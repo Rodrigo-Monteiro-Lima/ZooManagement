@@ -48,7 +48,7 @@ const getAllDays = () => {
 };
 
 const allDays = getAllDays();
-// Trecho de código sobre organizar os dias por ordem retirado da página: https://stackoverflow.com/questions/70258706/how-to-sort-an-object-based-on-key-weekday
+
 const sortByDays = () => {
   const sorter = {
     Tuesday: 2,
